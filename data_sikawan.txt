@@ -1,0 +1,91 @@
+20000 13 12 33
+1
+Budi Santoso
+2
+Siti Aminah
+3
+Ahmad Fauzi
+4
+Dewi Lestari
+5
+Rudi Hartono
+6
+Rina Marlina
+7
+Eko Prasetyo
+8
+Fitri Handayani
+9
+Hendra Wijaya
+10
+Nurul Hidayah
+11
+Agus Salim
+12
+Yulia Sari
+M 1 10 2026 20000
+-
+M 2 10 2026 20000
+-
+M 3 10 2026 20000
+-
+M 4 10 2026 10000
+-
+M 5 10 2026 20000
+-
+M 6 10 2026 20000
+-
+K 0 10 2026 30000
+Kebersihan lingkungan
+K 0 10 2026 25000
+Listrik pos ronda
+M 7 10 2026 10000
+-
+M 4 10 2026 10000
+-
+M 8 10 2026 20000
+-
+M 9 10 2026 20000
+-
+M 10 10 2026 20000
+-
+M 12 10 2026 20000
+-
+K 0 10 2026 20000
+Perbaikan lampu jalan
+K 0 10 2026 25000
+Konsumsi kerja bakti
+M 1 11 2026 20000
+-
+M 2 11 2026 20000
+-
+M 3 11 2026 10000
+-
+M 4 11 2026 20000
+-
+M 5 11 2026 20000
+-
+M 6 11 2026 20000
+-
+K 0 11 2026 30000
+Kebersihan lingkungan
+K 0 11 2026 25000
+Listrik pos ronda
+K 0 11 2026 20000
+Pembelian alat kebersihan
+M 7 11 2026 20000
+-
+M 8 11 2026 20000
+-
+M 10 11 2026 20000
+-
+M 11 11 2026 20000
+-
+M 12 11 2026 10000
+-
+K 0 11 2026 30000
+Santunan warga sakit
+K 0 11 2026 20000
+Konsumsi rapat RT
+K 0 11 2026 25000
+Perbaikan selokan
